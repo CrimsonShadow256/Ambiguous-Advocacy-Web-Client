@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Ambiguous Advocacy-1.0";
 const contentToCache = [
-    "Build/Mirror Server Test Web Build.loader.js",
-    "Build/Mirror Server Test Web Build.framework.js.unityweb",
-    "Build/Mirror Server Test Web Build.data.unityweb",
-    "Build/Mirror Server Test Web Build.wasm.unityweb",
+    "Build/FinalMirrorTest.loader.js",
+    "Build/FinalMirrorTest.framework.js.unityweb",
+    "Build/FinalMirrorTest.data.unityweb",
+    "Build/FinalMirrorTest.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
